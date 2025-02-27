@@ -2,7 +2,7 @@
 🌟 Interests: I'm passionate about web development, full-stack blockchain, and DSA.
 🚀 Currently Learning: web development
 🤝 Looking to Collaborate: I’m eager to team up on web dev projects and create something amazing together!
-📫 Connect with Me: You can find me on Instagram @nithen__bains15. Let’s chat!
+📫 Connect with Me: You can find me on Instagram @nithen__bains17. Let’s chat!
 😄 Pronouns: He/Him
 ⚡ Fun Fact: I can name all the planets in order—just ask me!
 
