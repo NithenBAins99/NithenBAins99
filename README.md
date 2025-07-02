@@ -15,6 +15,8 @@
 🔮 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" /> </p>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=00FFC2&center=true&vCenter=true&repeat=false&width=450&lines=Code+in+silence.+Shock+the+system." /> </p>
+
 ---
 
 ## 🧠 About Me
