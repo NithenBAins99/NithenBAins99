@@ -20,6 +20,9 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /> </p> <p align="center"><i>“Born to build. Trained to ship.”</i></p>
 ---
 
+Contact with me
+<p align="center"> <a href="https://twitter.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/> </a> <a href="https://linkedin.com/in/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/> </a> <a href="https://instagram.com/yourhandle" target="_blank"> <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F"/> </a> </p>
+
 ## 🧠 About Me
 
 <p align="center">
