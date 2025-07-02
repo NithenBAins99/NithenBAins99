@@ -1,7 +1,7 @@
 <!-- 🔥 Cyberpunk Hacker Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=%3E+Nithen+has+entered+the+terminal...;%3E+Booting+up+full-stack+mode...;%3E+Deploying+in+stealth...">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=%3E+M4N...;%3E+loading.......">
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=00FFC2&center=true&vCenter=true&repeat=false&width=450&lines=Code+in+silence.+Shock+the+system." /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /> </p> <p align="center"><i>“Born to build. Trained to ship.”</i></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /> </p> 
 ---
 
 Contact with me
