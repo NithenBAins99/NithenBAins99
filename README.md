@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Nithen%20Bains-Coding%20in%20Stealth-black?style=for-the-badge&labelColor=111111&color=0AFFEF&logo=github"/>
 </h2>
 
+🔮 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" /> </p>
+
 ---
 
 ## 🧠 About Me
