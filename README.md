@@ -1,12 +1,12 @@
 <!-- README.md - Dark, Clean, Dev-Dashboard Vibe -->
+╭────────────────────────────────────────────╮
+│ Name        : Nithen Bains                 │
+│ Role        : Full Stack Developer         │
+│ Theme       : Vercel x shadcn / Glass UI   │
+│ Code Editor : VS Code                      │
+│ GitHub      : @NithenBains                 │
+╰────────────────────────────────────────────╯
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=440&lines=Hey%2C+I'm+Nithen+Bains!;Full-Stack+Web+Developer.;Minimalist+Design+%7C+Clean+Code+%7C+Dark+Mode+Lover" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250" />
-</p>
 
 ---
 
