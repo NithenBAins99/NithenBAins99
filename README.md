@@ -8,6 +8,14 @@
   <img src="https://media.giphy.com/media/hp3dmEfu7b0uRLxYF9/giphy.gif" width="260"/>
 </p>
 
+### 🧷 Dev Form (Simulated UI)  
+
+> `Username:` **@NithenBains**  
+> `Role:` **Full-Stack Web Developer**  
+> `Framework:` **React + Node.js**  
+> `Theme:` **Dark / Minimal / Glass UI**  
+> `Editor:` **Visual Studio Code** 
+
 ---
 
 ### 🧠 About Me
