@@ -10,6 +10,8 @@
 
 ---
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" /> </p>
+
 ## 🧠 About Me
 
 ```txt
