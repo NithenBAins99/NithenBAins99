@@ -10,7 +10,7 @@
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend  
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -20,30 +20,17 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-### 🧠 Backend  
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=websocket&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Deployment  
-<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
-
 ---
-
 ## 📌 About Me
-
-- 🔭 Currently building **real-time social apps**
-- 💬 Ask me about anything related to **MERN / Next.js / WebSockets**
 - 🌱 Constantly learning & improving with **TypeScript & clean architecture**
-- 💡 Focused on **performance, UI/UX, and developer experience**
+- 💡 Focused on **performance, backend , frontend etc**
 
 ---
 
