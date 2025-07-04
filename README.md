@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nithen Bains</h1>
-<h3 align="center">Currently learning new stuff & improving day by day</h3>
+<h1 align="start">Hi 👋, I'm Nithen Bains</h1>
+<h3 align="start">Currently learning new stuff & improving day by day</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=440&lines=Code.+Discipline.+Build.+Repeat." alt="Typing SVG" />
