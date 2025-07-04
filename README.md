@@ -1,9 +1,9 @@
 <!-- Vercel + shadcn/ui inspired GitHub Profile README -->
 
 
-### 🧷 Dev Form (Simulated UI)  
+### 🧷 About me (Simulated UI)  
 
-> `Username:` **@NithenBains**  
+> `Name:` **@NithenBains**  
 > `Role:` **Full-Stack Web Developer**  
 > `Framework:` **React + Node.js**  
 > `Theme:` **Dark / Minimal / Glass UI**  
