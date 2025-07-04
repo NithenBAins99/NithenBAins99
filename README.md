@@ -1,11 +1,9 @@
 <!-- README.md - Dark, Clean, Dev-Dashboard Vibe -->
 ╭────────────────────────────────────────────╮
 │ Name        : Nithen Bains                 │
-│ Role        : Full Stack Developer         │
-│ Theme       : Vercel x shadcn / Glass UI   │
-│ Code Editor : VS Code                      │
-│ GitHub      : @NithenBains                 │
-╰────────────────────────────────────────────╯
+
+
+
 
 
 ---
